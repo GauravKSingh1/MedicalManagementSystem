@@ -1,5 +1,4 @@
 import mysql.connector
-import tkinter 
 ##printing Welcome note
 print("""
 
